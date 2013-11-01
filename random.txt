@@ -16,3 +16,4 @@ herpderp (redux)
 debug line test
 lolwhat?
 Moved something to somewhere... goodnight...
+better ignores

@@ -1,3 +1,4 @@
+git.exe pull --progress  "origin" adam
 curl -s http://whatthecommit.com/index.txt >> random.txt
 git add .
 git commit -m"`curl -s http://whatthecommit.com/index.txt`"
