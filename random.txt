@@ -27,3 +27,6 @@ doh.
 squash me
 and a comma
 pgsql is more strict, increase the hackiness up to 11
+I'm hungry
+stuff
+more ignored words
