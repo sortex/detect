@@ -38,3 +38,4 @@ This is a basic implementation that works.
 I don't know what these changes are supposed to accomplish but somebody told me to make them.
 MOAR BIFURCATION
 Fixing Stephen's bug.
+Added a banner to the default admin page. Please have mercy on me =(
