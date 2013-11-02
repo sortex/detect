@@ -53,3 +53,4 @@ better ignores
 doh.
 Replace all whitespaces with tabs.
 Major fixup.
+Locating the required gigapixels to render...
